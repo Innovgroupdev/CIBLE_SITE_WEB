@@ -62,8 +62,7 @@ class AdminUserController extends Controller
         $request->validate([
         'name' => 'required',
         'email' => 'required',
-        'password' => 'required|confirmed',
-        'password_confirmation' => 'required'
+        'password' => 'required|confirmed'
         ]);
         //validate
         $this->validate($request, [

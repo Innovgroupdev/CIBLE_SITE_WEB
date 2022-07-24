@@ -14,7 +14,6 @@ Route::get('missing', function () {
 |--------------------------------------------------------------------------
 |
 */
-Route::group(['middleware' => 'admin'], function () {
     Route::resource('admin', 'dashboardController');
     Route::resource('dashboard/dashboardSettings', 'dashboardSettingsController');
     Route::resource('dashboard/dashboardUsers', 'AdminUserController');
@@ -28,7 +27,7 @@ Route::group(['middleware' => 'admin'], function () {
     Route::resource('dashboard/dashboardEvents', 'dashboardEventController');
     Route::resource('dashboard/dashboardMessages', 'dashboardmessageController');
     Route::resource('dashboard/dashboardGalleres', 'dashboardGalleryController');
-});
+
 /*
 |--------------------------------------------------------------------------
 | resource
@@ -44,3 +43,5 @@ Route::resource('Messages', 'messageController');
 Route::post('paypal', 'PaymentController@payWithpaypal');
 // route for check status of the payment
 Route::get('status', 'PaymentController@getPaymentStatus');
+
+Route::get('home', 'Blog\HomeController@index')->name('home');

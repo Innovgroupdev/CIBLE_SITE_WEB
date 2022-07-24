@@ -86,6 +86,7 @@
                     <nav class="navbar align-items-stretch navbar-light bg-white flex-md-nowrap border-bottom p-0">
                         <a class="navbar-brand w-100 mr-0" href="{{ url('/') }}" style="line-height: 25px;"
                             target="_blank">
+
                             <div class="d-table m-auto">
                                 <!-- ============================================= admin Site ============================================= -->
                                 <img id="main-logo" class="d-inline-block align-top mr-1 rounded-circle20"
@@ -115,6 +116,8 @@
                                 <i class="icon-material-outline-dashboard"></i>
                                 <span>Tableau de bord</span>
                             </a>
+
+
                         </li>
                         <!-- ============================================= nav admin Site ============================================= -->
                         <li class="nav-item">
@@ -204,8 +207,11 @@
                     <!-- Main Navbar -->
                     <!-- ============================================= nav admin Site ============================================= -->
                     <nav class="navbar d-flex justify-content-end navbar-light flex-md-nowrap p-0">
-                        <div class="mx-auto" style="width: 200px;"> <button type="button"
-                                class="btn btn-primary">Aller vers le blog</button>
+                        <div class="mx-auto" style="width: 200px;">
+
+                            <a href="{{ route('home') }}"
+                                class="btn btn-primary">Aller vers le blog</a>
+
                         </div>
                         <ul class="navbar-nav border-left flex-row ">
 

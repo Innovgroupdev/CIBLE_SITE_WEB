@@ -3,13 +3,13 @@
 @section('content')
 <!-- ============================================================= Content Start ============================================================= -->
 <div class="limiter">
-        <div class="container-login100" style="background-image: url('{!! asset(Setting()->HomePicture) !!}');">
+        <div class="container-login100">
             <div class="wrap-login100">
                 <form method="POST" action="{{ route('login') }}" class="login100-form validate-form">
                 @csrf
                     <span class="login100-form-logo">
 
-                        <a class="zmdi zmdi-landscape" href="{!! url('/') !!}"><img src="{{ asset(Setting()->LogoPicture) }}" style="border-radius: 50%;" alt="logo-image" height="96px" width="96px"></a>
+                        <a class="zmdi zmdi-landscape" href="{!! url('/') !!}"></a>
                     </span>
 
                     <span class="login100-form-title p-b-34 p-t-27">
