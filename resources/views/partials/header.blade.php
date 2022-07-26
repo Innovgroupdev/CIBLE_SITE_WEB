@@ -8,7 +8,7 @@
             <div class="col-sm-12">
                 <nav class="navbar navbar-expand-lg navbar-light">
                     <a class="navbar-brand" href="#">
-                        <img class="img-fluid" src="{{ asset("/wp-content/themes/appino/assets/images/logo.svg")}}"
+                        <img class="img-fluid" src="{{ asset("/wp-content/themes/appino/assets/images/logo.png")}}"
                              alt="appino">
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse"
@@ -22,32 +22,32 @@
                                 <ul id="top-menu" class="menu">
                                     <li id="menu-item-658"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-658">
-                                        <a href="#home">Home</a></li>
+                                        <a href="#home">Accueil</a></li>
                                     <li id="menu-item-552"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-552">
-                                        <a href="#about">About</a></li>
+                                        <a href="#about">A propos</a></li>
                                     <li id="menu-item-553"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-553">
-                                        <a href="#features">Features</a></li>
+                                        <a href="#features">Fonctionnalités</a></li>
                                     <li id="menu-item-554"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-554">
-                                        <a href="#screenshots">Screenshots</a></li>
-                                    <li id="menu-item-555"
+                                        <a href="#team"> L’équipe </a></li>
+                                    <!-- <li id="menu-item-555"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-555">
-                                        <a href="#team">Team</a></li>
+                                        <a href="#screenshots">FAQ </a></li> -->
                                     <li id="menu-item-1041"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1041">
                                         <a href="#faq">FAQ</a></li>
-                                    <li id="menu-item-556"
+                                    <!-- <li id="menu-item-556"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-556">
-                                        <a href="#pricing">Pricing</a></li>
-                                    <li id="menu-item-1636"
+                                        <a href="#pricing">Pricing</a></li> -->
+                                    <!-- <li id="menu-item-1636"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1636">
-                                        <a href="shop-2/index.html">Shop</a></li>
+                                        <a href="shop-2/index.html">Shop</a></li> -->
                                     <li id="menu-item-557"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-557">
+                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-557">
                                         <a href="#blog">Blog</a>
-                                        <ul class="sub-menu">
+                                        <!-- <ul class="sub-menu">
                                             <li id="menu-item-571"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-571">
                                                 <a href="blog/index.html">Blog</a></li>
@@ -63,7 +63,7 @@
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1637">
                                                 <a href="three-columns-blogs/index.html">Three Columns Blogs</a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                 </ul>
                             </div>

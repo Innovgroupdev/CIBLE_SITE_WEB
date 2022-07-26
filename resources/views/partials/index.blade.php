@@ -8,10 +8,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="{{ asset('https://gmpg.org/xfn/11')}}">
-    <link rel="shortcut icon" href="{{ asset('wp-content/themes/appino/assets/images/favicon.ico')}}" />
+    <link rel="shortcut icon" href="{{ asset('wp-content/themes/appino/assets/images/logo.svg')}}" />
     <script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
     <script>(function (html) { html.className = html.className.replace(/\bno-js\b/, 'js') })(document.documentElement);</script>
-{{--    <title>particles-3 &#8211; Just another appino Sites site</title>--}}
+{{--    <title>CIBLE APP &#8211;</title>--}}
     <title>CIBLE</title>
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='{{ asset('http://fonts.googleapis.com/')}}' />
@@ -276,6 +276,28 @@
             padding-top: 60px !important;
             padding-bottom: 60px !important;
         }
+        .btn-outline-light:hover{
+            color: #000000!important;
+        }
+        select {
+            width: 100%;
+            float: left;
+            padding: 0 15px;
+            height: 48px;
+            line-height: 48px;
+            background: #eeeeee;
+            border: 1px solid #eeeeee;
+            -webkit-border-radius: 0;
+            -moz-border-radius: 0;
+            border-radius: 0;
+            color: #3d4b51;
+            transition: all 0.5s ease-in-out;
+            transition: all 0.5s ease-in-out;
+            -moz-transition: all 0.5s ease-in-out;
+            -ms-transition: all 0.5s ease-in-out;
+            -o-transition: all 0.5s ease-in-out;
+            -webkit-transition: all 0.5s ease-in-out;
+        }
     </style>
     <noscript>
         <style>
@@ -312,6 +334,5 @@
 
 </body>
 
-<!-- Mirrored from wordpress.iqonic.design/appino/particles-3/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 19 Jul 2022 09:10:42 GMT -->
 
 </html>
