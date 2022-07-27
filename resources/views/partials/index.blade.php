@@ -1287,7 +1287,7 @@
 																								</span>
 																								<span style="font-weight: 400;">
                                                                                                 Vous méritez le beau ; 
-                                                                                                je vous offrirai le plus beau.</span>  
+                                                                                                je vous offrirai toujours le plus beau.</span>  
 																								<span class="font-bold text-dark h2">
 																									"
 																								</span>
