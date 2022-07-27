@@ -45,3 +45,6 @@ Route::post('paypal', 'PaymentController@payWithpaypal');
 Route::get('status', 'PaymentController@getPaymentStatus');
 
 Route::get('home', 'Blog\HomeController@index')->name('home');
+Route::get('blog', 'Blog\HomeController@blog')->name('blog');
+Route::get('article', 'Blog\HomeController@detail')->name('detail');
+Route::get('category', 'Blog\HomeController@category')->name('category');

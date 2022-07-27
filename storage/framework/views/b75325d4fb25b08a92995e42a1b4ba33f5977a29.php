@@ -161,7 +161,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="iq-fancy-box text-"><img alt="fancy"
-																			src="<?php echo e(asset('wp-content/uploads/sites/9/2019/02/1-1.png')); ?>" />
+																			src="<?php echo e(asset('wp-content/uploads/sites/9/2019/02/clible-app-usage-icone.png')); ?>" />
 																		<h5>Une utilisation  <br> simplifiée</h5>
 																		<p>Pour vous simplifier la vie, deux applications ont été conçues :
                                                                              une pour entreprises et l’autre pour particuliers.
@@ -175,7 +175,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="iq-fancy-box text-"><img alt="fancy"
-																			src="<?php echo e(asset('wp-content/uploads/sites/9/2019/02/2-1.png')); ?>" />
+																			src="<?php echo e(asset('wp-content/uploads/sites/9/2019/02/clible-app-plus-event-icone.png')); ?>" />
 																		<h5>Vivez <br> plus qu'un événement</h5>
 																		<p>Des fonctionnalités sont développées mois après mois pour 
                                                                             vous donner la meilleure expérience </p>
@@ -188,7 +188,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="iq-fancy-box text-"><img alt="fancy"
-																			src="<?php echo e(asset('wp-content/uploads/sites/9/2019/02/3-1.png')); ?>" />
+																			src="<?php echo e(asset('wp-content/uploads/sites/9/2019/02/clible-app-a-propos-icone.png')); ?>" />
 																		<h5>Exigez  <br> Le meilleur de nous</h5>
 																		<p>Demandez-nous encore plus de fonctionnalités... 
                                                                             Nous tâcherons à toujours réaliser vos meilleures idées. </p>
@@ -397,8 +397,8 @@
 																	<div class="wpb_wrapper">
 																		<div
 																			class="iq-bg about-img popup-gallery play-video">
-																			<img class="img-fluid center-block"
-																				src="<?php echo e(asset('wp-content/uploads/sites/9/2019/02/cible-app-video.gif')); ?>"
+																			<img class="img-fluid center-block" style="border-radius:10px"
+																				src="<?php echo e(asset('wp-content/uploads/sites/9/2019/02/bg-3-1.jpg')); ?>"
 																				alt="#">
 																			<a href="https://www.youtube.com/watch?v=kzyFmrFky7Y"
 																				class="iq-video popup-youtube"><i
@@ -429,7 +429,7 @@
 																<div class="vc_column-inner">
 																	<div class="wpb_wrapper">
 																		<div class="heading-title text-center">
-																			<h2 class="title">Des fonctionnalités bien <br> pensées et complètes</h2>
+																			<h2 class="title">Des fonctionnalités bien pensées <br> et complètes pour l’événementiel </h2>
 																			<!-- <p>These features are essential for
 																				developing an app that makes the grade
 																				with users.</p> -->
@@ -465,13 +465,7 @@
 																									<h5>Créer et publier vos événement</h5>
 																									<div
 																										class="fancy-content-01">
-																										<!-- <p>Designing the
-																											layout of
-																											your content
-																											requires one
-																											very
-																											important
-																											thing.</p> -->
+																										<p>Informez en quelques minutes des millions d’utilisateurs</p>
 																									</div>
 																								</div>
 																							</a>
@@ -491,11 +485,7 @@
 																									<h5>Vendre des tickets</h5>
 																									<div
 																										class="fancy-content-01">
-																										<!-- <p>You can
-																											update your
-																											website on
-																											your own
-																											terms.</p> -->
+																										<p>Suivi en temps réel vos ventes depuis votre téléphone</p>
 																									</div>
 																								</div>
 																							</a>
@@ -516,13 +506,7 @@
 																									</h5>
 																									<div
 																										class="fancy-content-01">
-																										<!-- <p>Actionable
-																											and useful
-																											content to
-																											mobilize
-																											your
-																											audience to
-																											action.</p> -->
+																										<p>Contrôlez les tickets et l’accès au lieu avec votre smartphone </p>
 																									</div>
 																								</div>
 																							</a>
@@ -598,13 +582,7 @@
 																									</h5>
 																									<div
 																										class="fancy-content-01">
-																										<!-- <p>With the
-																											Content
-																											Showcase
-																											app, you can
-																											highlight
-																											important
-																											pieces.</p> -->
+																										<p>Ne vous déplacez plus. Tous les tickets sont dans l’application</p>
 																									</div>
 																								</div>
 																							</a>
@@ -622,12 +600,7 @@
 																									<h5>Recommander</h5>
 																									<div
 																										class="fancy-content-01">
-																										<!-- <p>A simple and
-																											powerful
-																											solution to
-																											engage your
-																											visitors on
-																											yours.</p> -->
+																										<p>Partagez avec vos contacts l’application et gagnez de l’argent</p>
 																									</div>
 																								</div>
 																							</a>
@@ -646,11 +619,7 @@
 																									</h5>
 																									<div
 																										class="fancy-content-01">
-																										<!-- <p>And plenty of
-																											features
-																											available
-																											for this
-																											theme.</p> -->
+																										<p>Obtenez l’avis de vos participants à chaque événement</p>
 																									</div>
 																								</div>
 																							</a>
@@ -678,9 +647,9 @@
 																<div class="vc_column-inner">
 																	<div class="wpb_wrapper">
 																		<div class="heading-title text-center">
-																			<h2 class="title">Vivez l'application CIBLE</h2>
-																			<p>Un design soigné, des Fonctionnalités complètes et des processus optimisés 
-																				pour vous offrir la meilleur expérience utilisateur.
+																			<h2 class="title">Parce que vous êtes un boss, <br> utilisez CIBLE</h2>
+																			<p>Un design soigné, des Fonctionnalités complètes et des 
+																				processus optimisés pour vous offrir la meilleure expérience utilisateur.
 																			</p>
 																		</div>
 																	</div>
@@ -780,7 +749,7 @@
 																		<div class="iq-fancy-box-02 text-center">
 																			<div class="iq-icon">
 																				<i aria-hidden="true"
-																					class="ion ion-ios-monitor-outline"></i>
+																					class="ion ion-ios-cloud-download-outline"></i>
 																			</div>
 																			<div class="fancy-content">
 																				<h6>Allez sur Play Store ou App Store puis téléchargez CIBLE</h6>
@@ -798,7 +767,7 @@
 																		<div class="iq-fancy-box-02 text-center">
 																			<div class="iq-icon">
 																				<i aria-hidden="true"
-																					class="ion ion-ios-settings"></i>
+																					class="ion ion-ios-albums-outline"></i>
 																			</div>
 																			<div class="fancy-content">
 																				<h6>Consultez gratuitement les événements autour de vous</h6>
@@ -818,7 +787,7 @@
 																		<div class="iq-fancy-box-02 text-center">
 																			<div class="iq-icon">
 																				<i aria-hidden="true"
-																					class="ion ion-social-googleplus-outline"></i>
+																					class="ion ion-ios-person-outline"></i>
 																			</div>
 																			<div class="fancy-content">
 																				<h6>Créez gratuitement un compte pour acheter un ticket</h6>
@@ -868,7 +837,7 @@
 																		<div class="iq-fancy-box-02 text-center">
 																			<div class="iq-icon">
 																				<i aria-hidden="true"
-																					class="ion ion-ios-monitor-outline"></i>
+																					class="ion ion-ios-cloud-download-outline"></i>
 																			</div>
 																			<div class="fancy-content">
 																				<h6>Allez sur Play Store ou App Store puis téléchargez CIBLE PRO</h6>
@@ -887,7 +856,7 @@
 																		<div class="iq-fancy-box-02 text-center">
 																			<div class="iq-icon">
 																				<i aria-hidden="true"
-																					class="ion ion-ios-settings"></i>
+																					class="ion ion-ios-information-outline"></i>
 																			</div>
 																			<div class="fancy-content">
 																				<h6>Consultez gratuitement certaines informations</h6>
@@ -907,7 +876,7 @@
 																		<div class="iq-fancy-box-02 text-center">
 																			<div class="iq-icon">
 																				<i aria-hidden="true"
-																					class="ion ion-social-googleplus-outline"></i>
+																					class="ion ion-ios-person-outline"></i>
 																			</div>
 																			<div class="fancy-content">
 																				<h6>Créez gratuitement un compte pour tirer profit de CIBLE</h6>
@@ -928,7 +897,7 @@
 																		<div class="iq-fancy-box-02 text-center">
 																			<div class="iq-icon">
 																				<i aria-hidden="true"
-																					class="ion ion-ios-heart-outline"></i>
+																					class="ion ion-ios-pricetag-outline"></i>
 																			</div>
 																			<div class="fancy-content">
 																				<h6>Gagnez de l’argent et du temps</h6>
@@ -959,7 +928,11 @@
 																		<div class="heading-title text-center">
 																			<h2 class="title">Nos clients en mode témoignage
 																			</h2>
-																			<p>Il n'ya plus rien de plus gratifiant pour nous qu'un.e client.e satisfait.e</p>
+																			<p> 
+																				Il n'y a rien de plus gratifiant pour nous qu'un client satisfait. 
+																				<br>
+																				Faites-vous confiance ; faites votre propre expérience de CIBLE.
+																			</p>
 																		</div>
 																	</div>
 																</div>
@@ -1046,6 +1019,11 @@
 																</div>
 															</div>
 														</div>
+														<div class="container d-flex justify-content-center pt-4 pt-lg-5">
+															<a  class="button text-light" style="cursor:pointer"  data-toggle="modal" data-target="#exampleModalCenter1">
+																J’essayerai Cible 
+															</a>
+														</div>
 													</div>
 												</div>
 											</div>
@@ -1061,8 +1039,8 @@
 																<div class="vc_column-inner">
 																	<div class="wpb_wrapper">
 																		<div class="heading-title text-center">
-																			<h2 class="title">Une équipe formidable</h2>
-																			<p>C'est pour votre satisfaction que nous nous reveillons,
+																			<h2 class="title">Une équipe formidable à votre service</h2>
+																			<p>C'est pour votre satisfaction que nous nous réveillons, 
 																				et c'est grâce à elle que nous dormons paisiblement.
 																			</p>
 																		</div>
@@ -1070,7 +1048,7 @@
 																</div>
 															</div>
 														</div>
-														<div class="vc_row wpb_row vc_inner vc_row-fluid">
+														<!-- <div class="vc_row wpb_row vc_inner vc_row-fluid">
 															<div class="wpb_column vc_column_container vc_col-sm-12">
 																<div class="vc_column-inner">
 																	<div class="wpb_wrapper">
@@ -1092,10 +1070,13 @@
 																								alt="#0">
 																							<div
 																								class="iq-team-info text-center">
-																								<h5>Jason Adams</h5>
+																								<h5>BATANDEO BAOURA</h5>
 																								<span
-																									class="team-post">Ui/UX
+																									class="team-post">Back end
 																									Developer</span>
+																								<p class="px-3" style="font-style:italic;line-height:1.2rem">
+																									" Lorem ipsum dolor sit amet consectetur adipisicing elit. A modi aliquid eligendi fugiat "
+																								</p>
 																								<div class="share">
 																									<span> <i
 																											class="fa fa-share-alt iq-mr-10"
@@ -1246,7 +1227,242 @@
 																	</div>
 																</div>
 															</div>
+														</div> -->
+
+														<div class="vc_row wpb_row vc_inner vc_row-fluid">
+															<div class="wpb_column vc_column_container vc_col-sm-12">
+																<div class="vc_column-inner">
+																	<div class="wpb_wrapper">
+																		<div class="row">
+																			<div class="col-sm-12">
+																				<div class="owl-carousel pr-0"
+																					data-dots="false" data-nav="true"
+																					data-autoplay="true"
+																					data-loop="true" data-items="3"
+																					data-items-laptop="3"
+																					data-items-tab="2"
+																					data-items-mobile="1"
+																					data-items-mobile-sm="1"
+																					data-margin="30">
+																					<div class="item text-center" >
+																					<div class="team" style="border-right:1px solid #e3e3e3;">
+																						<div class="image mx-auto">
+																							<img src="<?php echo e(asset('wp-content/uploads/sites/9/2018/12/t5-1.jpg')); ?>"
+																							class="img-fluid center-block mx-auto" style="aspect-ratio:1;width:14rem;border-radius:50%" alt="">
+																							<h5 class="mt-3">LE SAINT</h5>
+																							<p
+																								class="team-post text-secondary" >Back end
+																								Developer</p>
+																								<p
+																								class="team-post text-secondary" >
+																								<span class="font-bold text-dark h2">
+																									"
+																								</span>
+																								<span style="font-weight: 400;">Lorem ipsum dolor,
+																								sit amet consectetur adipisicing elit. Similique ipsam libero unde atque? Aut, quidem.</span>  
+																								<span class="font-bold text-dark h2">
+																									"
+																								</span>
+																							</p>
+																							<p class="mt-3"> 
+																								<a href="http://instagram.com" class="h4" target="_blank"  rel="noopener noreferrer">
+																								<i class="fa fa-instagram  text-dark"></i>
+																								</a>
+																								<a href="http://" class="h4 ml-3" target="_blank"  rel="noopener noreferrer">
+																								<i class="fa fa-linkedin  text-dark"></i>
+																								</a>
+																								
+																							</p>
+																						</div>
+																					</div>
+																					</div>
+																					<div class="item text-center" >
+																					<div class="team" style="border-right:1px solid #e3e3e3;">
+																						<div class="image mx-auto">
+																							<img src="<?php echo e(asset('wp-content/uploads/sites/9/2018/12/t4-1.jpg')); ?>"
+																							class="img-fluid center-block mx-auto" style="aspect-ratio:1;width:14rem;border-radius:50%" alt="">
+																							<h5 class="mt-3">ZEUS</h5>
+																							<p
+																								class="team-post text-secondary" >Back end
+																								Developer</p>
+																								<p
+																								class="team-post text-secondary" >
+																								<span class="font-bold text-dark h2">
+																									"
+																								</span>
+																								<span style="font-weight: 400;">Lorem ipsum dolor,
+																								sit amet consectetur adipisicing elit. Similique ipsam libero unde atque? Aut, quidem.</span>  
+																								<span class="font-bold text-dark h2">
+																									"
+																								</span>
+																							</p>
+																							<p class="mt-3"> 
+																								<a href="http://instagram.com" class="h4" target="_blank"  rel="noopener noreferrer">
+																								<i class="fa fa-instagram  text-dark"></i>
+																								</a>
+																								<a href="http://" class="h4 ml-3" target="_blank"  rel="noopener noreferrer">
+																								<i class="fa fa-linkedin  text-dark"></i>
+																								</a>
+																								
+																							</p>
+																						</div>
+																					</div>
+																					</div>
+																					<div class="item text-center" >
+																					<div class="team" style="border-right:1px solid #e3e3e3;">
+																						<div class="image mx-auto">
+																							<img src="<?php echo e(asset('wp-content/uploads/sites/9/2018/12/t3-1.jpg')); ?>"
+																							class="img-fluid center-block mx-auto" style="aspect-ratio:1;width:14rem;border-radius:50%" alt="">
+																							<h5 class="mt-3">L'AIGLE</h5>
+																							<p
+																								class="team-post text-secondary" >Back end
+																								Developer</p>
+																								<p
+																								class="team-post text-secondary" >
+																								<span class="font-bold text-dark h2">
+																									"
+																								</span>
+																								<span style="font-weight: 400;">Lorem ipsum dolor,
+																								sit amet consectetur adipisicing elit. Similique ipsam libero unde atque? Aut, quidem.</span>  
+																								<span class="font-bold text-dark h2">
+																									"
+																								</span>
+																							</p>
+																							<p class="mt-3"> 
+																								<a href="http://instagram.com" class="h4" target="_blank"  rel="noopener noreferrer">
+																								<i class="fa fa-instagram  text-dark"></i>
+																								</a>
+																								<a href="http://" class="h4 ml-3" target="_blank"  rel="noopener noreferrer">
+																								<i class="fa fa-linkedin  text-dark"></i>
+																								</a>
+																								
+																							</p>
+																						</div>
+																					</div>
+																					</div>
+																					<div class="item text-center" >
+																					<div class="team" style="border-right:1px solid #e3e3e3;">
+																						<div class="image mx-auto">
+																							<img src="<?php echo e(asset('wp-content/uploads/sites/9/2018/12/t2-1.jpg')); ?>"
+																							class="img-fluid center-block mx-auto" style="aspect-ratio:1;width:14rem;border-radius:50%" alt="">
+																							<h5 class="mt-3">LA DIVA</h5>
+																							<p
+																								class="team-post text-secondary" >Back end
+																								Developer</p>
+																								<p
+																								class="team-post text-secondary" >
+																								<span class="font-bold text-dark h2">
+																									"
+																								</span>
+																								<span style="font-weight: 400;">Lorem ipsum dolor,
+																								sit amet consectetur adipisicing elit. Similique ipsam libero unde atque? Aut, quidem.</span>  
+																								<span class="font-bold text-dark h2">
+																									"
+																								</span>
+																							</p>
+																							<p class="mt-3"> 
+																								<a href="http://instagram.com" class="h4" target="_blank"  rel="noopener noreferrer">
+																								<i class="fa fa-instagram  text-dark"></i>
+																								</a>
+																								<a href="http://" class="h4 ml-3" target="_blank"  rel="noopener noreferrer">
+																								<i class="fa fa-linkedin  text-dark"></i>
+																								</a>
+																								
+																							</p>
+																						</div>
+																					</div>
+																					</div>
+
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
 														</div>
+
+
+														<!-- <div class="row text-center">
+															<div class="col-4 team" style="border-right:1px solid #e3e3e3;">
+																<div class="image mx-auto">
+																	<img src="<?php echo e(asset('wp-content/uploads/sites/9/2018/12/t5-1.jpg')); ?>"
+																								class="img-fluid center-block" style="aspect-ratio:1;width:14rem;border-radius:50%" alt="">
+																	<h5 class="mt-3">BATANDEO BAOURA</h5>
+																	<p
+																		class="team-post text-secondary" >Back end
+																		Developer</p>
+																		<p
+																		class="team-post text-secondary" >
+																		
+																		<span style="font-weight: 400;">Lorem ipsum dolor,
+																		 sit amet consectetur adipisicing elit. Similique ipsam libero unde atque? Aut, quidem.</span>  
+																		
+																	</p>
+																	<p class="mt-3"> 
+																		<a href="http://instagram.com" class="h4" target="_blank"  rel="noopener noreferrer">
+																		  <i class="fa fa-instagram  text-dark"></i>
+																		</a>
+																		<a href="http://" class="h4 ml-3" target="_blank"  rel="noopener noreferrer">
+																		  <i class="fa fa-linkedin  text-dark"></i>
+																		</a>
+																		
+																	</p>
+																</div>
+															</div>
+															<div class="col-4 team" style="border-right:1px solid #e3e3e3;">
+																<div class="image mx-auto">
+																	<img src="<?php echo e(asset('wp-content/uploads/sites/9/2018/12/t3-1.jpg')); ?>"
+																								class="img-fluid center-block" style="aspect-ratio:1;width:14rem;border-radius:50%" alt="">
+																	<h5 class="mt-3">BATANDEO BAOURA</h5>
+																	<p
+																		class="team-post text-secondary" >Back end
+																		Developer</p>
+																		<p
+																		class="team-post text-secondary" >
+																		
+																		<span style="font-weight: 400;">Lorem ipsum dolor,
+																		 sit amet consectetur adipisicing elit. Similique ipsam libero unde atque? Aut, quidem.</span>  
+																		 
+																	</p>
+																	<p class="mt-3"> 
+																		<a href="http://instagram.com" class="h4" target="_blank"  rel="noopener noreferrer">
+																		  <i class="fa fa-instagram  text-dark"></i>
+																		</a>
+																		<a href="http://" class="h4 ml-3" target="_blank"  rel="noopener noreferrer">
+																		  <i class="fa fa-linkedin  text-dark"></i>
+																		</a>
+																		
+																	</p>
+																</div>
+															</div>
+															<div class="col-4 team" style="border-right:1px solid #e3e3e3;">
+																<div class="image mx-auto">
+																	<img src="<?php echo e(asset('wp-content/uploads/sites/9/2018/12/t4-1.jpg')); ?>"
+																								class="img-fluid center-block" style="aspect-ratio:1;width:14rem;border-radius:50%" alt="">
+																	<h5 class="mt-3">BATANDEO BAOURA</h5>
+																	<p
+																		class="team-post text-secondary" >Back end
+																		Developer</p>
+																		<p
+																		class="team-post text-secondary" >
+															
+																		<span style="font-weight: 400;">Lorem ipsum dolor,
+																		 sit amet consectetur adipisicing elit. Similique ipsam libero unde atque? Aut, quidem.</span>  
+																		
+																	</p>
+																	<p class="mt-3"> 
+																		<a href="http://instagram.com" class="h4" target="_blank"  rel="noopener noreferrer">
+																		  <i class="fa fa-instagram  text-dark"></i>
+																		</a>
+																		<a href="http://" class="h4 ml-3" target="_blank"  rel="noopener noreferrer">
+																		  <i class="fa fa-linkedin  text-dark"></i>
+																		</a>
+																		
+																	</p>
+																</div>
+															</div>
+															
+														</div> -->
 													</div>
 												</div>
 											</div>
@@ -1342,7 +1558,7 @@
 																		<div class="heading-title text-center">
 																			<h2 class="title">Questions les plus posées
 																			</h2>
-																			<p>Toutes vos questions comptent pour nous et nous repondrons toujours avec plaisir</p>
+																			<p>Toutes vos questions comptent pour nous et nous répondrons toujours avec plaisir.</p>
 																		</div>
 																	</div>
 																</div>
@@ -1391,72 +1607,79 @@
 																		<div class="iq-accordion">
 																			<div class="iq-ad-block iq-ad-active"> <a
 																					href="javascript:void(0)"
-																					class="iq-ad-title">CIBLE est-elle une application gratuite ?</a>
+																					class="iq-ad-title">CIBLE est-elle une application web ou mobile ? </a>
 																				<div class="iq-ad-details show"
 																					style=display:block>
 																					<div class="row">
-																						<div class="col-sm-3">
+																						<!-- <div class="col-sm-3">
 																							<img alt="#"
 																								class="img-fluid"
 																								src="<?php echo e(asset('wp-content/uploads/sites/9/2019/02/faq-1-150x150.jpg')); ?>" />
 
-																						</div>
-																						<div class="col-sm-9">It has
-																							survived not only five
-																							centuries, but also the leap
-																							into electronic typesetting.
-																							Neque porro quisquam est.
+																						</div> -->
+																						<div class="col-sm-12">CIBLE est une application mobile avec une version web qui 
+																							sera développée plus tard afin de donner plus de flexibilité aux clients.
+																							 Elle est téléchargeable sur Play store pour les utilisateurs d’Android et
+																							  App store pour les utilisateurs d’Iphone. 
 																						</div>
 																					</div>
 																				</div>
 																			</div>
 																			<div class="iq-ad-block "> <a
 																					href="javascript:void(0)"
-																					class="iq-ad-title">Comment installer CIBLE?</a>
+																					class="iq-ad-title">CIBLE est-elle gratuite ?</a>
 																				<div class="iq-ad-details ">
 																					<div class="row">
-																						<div class="col-sm-12">It has
-																							survived not only five
-																							centuries, but also the leap
-																							into electronic typesetting.
-																							Neque porro quisquam est,
-																							qui dolorem ipsum quia dolor
-																							sit amet, consectetur.</div>
+																						<div class="col-sm-12">Oui. Téléchargez et inscrivez-vous gratuitement et profitez 
+																							du meilleur de l’événementiel. Nous percevons néanmoins une commission sur 
+																							chaque ticket acheté afin de pouvoir continuer à développer pour le bonheur 
+																							de nos clients de nouvelles fonctionnalités. </div>
 																					</div>
 																				</div>
 																			</div>
 																			<div class="iq-ad-block "> <a
 																					href="javascript:void(0)"
-																					class="iq-ad-title">Dans quel pays peut-on utiliser CIBLE?</a>
+																					class="iq-ad-title">Comment avoir un compte CIBLE ? </a>
 																				<div class="iq-ad-details ">
 																					<div class="row">
-																						<div class="col-sm-3">
+																						<!-- <div class="col-sm-3">
 																							<img alt="#"
 																								class="img-fluid"
 																								src="<?php echo e(asset('wp-content/uploads/sites/9/2019/02/faq-1-150x150.jpg')); ?>" />
 
-																						</div>
-																						<div class="col-sm-9">It has
-																							survived not only five
-																							centuries, but also the leap
-																							into electronic typesetting.
-																							Neque porro quisquam est.
+																						</div> -->
+																						<div class="col-sm-12">
+																							Que vous soyez particulier ou entreprise, téléchargez CIBLE sur Play store ou App
+																							 Store, inscrivez-vous en renseignant les informations demandées à chaque étape
+																							  puis valider à la fin. Si vous voulez faire partie des premiers utilisateurs de
+																							   CIBLE, enregistrez-vous ici. 
 																						</div>
 																					</div>
 																				</div>
 																			</div>
 																			<div class="iq-ad-block "> <a
 																					href="javascript:void(0)"
-																					class="iq-ad-title">Peut-on gagnez de l'argent en tant que particulier sur CIBLE?</a>
+																					class="iq-ad-title">Dans quels pays peut-on utiliser CIBLE ? </a>
 																				<div class="iq-ad-details ">
 																					<div class="row">
-																						<div class="col-sm-12">It has
-																							survived not only five
-																							centuries, but also the leap
-																							into electronic typesetting.
-																							Neque porro quisquam est,
-																							qui dolorem ipsum quia dolor
-																							sit amet, consectetur.</div>
+																						<div class="col-sm-12">CIBLE sera disponible en Cote d’Ivoire, au Togo, au Sénégal,
+																							 au Cameroun, au Bénin, en RDC et au Burkina au lancement. 
+																							 Cependant d’autres pays suivront selon la demande. Et avec votre soutien,
+																							  CIBLE grandira et touchera d’autres pays d’Afrique et du monde. </div>
+																					</div>
+																				</div>
+																			</div>
+																			<div class="iq-ad-block "> <a
+																					href="javascript:void(0)"
+																					class="iq-ad-title">Peut-on gagner de l’argent en tant que particulier ? </a>
+																				<div class="iq-ad-details ">
+																					<div class="row">
+																						<div class="col-sm-12">
+																							Oui. Si les organisateurs d’événements vendent les tickets
+																							 pour gagner de l’argent, les particuliers peuvent décrocher des jobs dans
+																							  l’événementiel ou recommander l’application pour gagner de l’argent. 
+																							  Mais l’argent gagné par recommandation est utilisable uniquement pour acheter
+																							   sur l’application que ce soient des tickets ou des gadgets.  </div>
 																					</div>
 																				</div>
 																			</div>
@@ -1485,8 +1708,8 @@
 																		<div class="heading-title title-white text-center"
 																			style="color:#fff">
 																			<h2 class="title">Téléchargement gratuit </h2>
-																			<p>Tirez profit de chaque événement autour de vous .
-																				téléchargez maintenant l'application CIBLE selon votre profil.
+																			<p>Tirez profit de chaque événement autour de vous. Téléchargez maintenant 
+																				l'application CIBLE selon votre profil.
 																			</p>
 																		</div>
 																	</div>
@@ -1497,7 +1720,11 @@
 															<div class="wpb_column vc_column_container vc_col-sm-12">
 																<div class="vc_column-inner">
 																	<div class="wpb_wrapper">
-																		<div class="text-center"> <a
+																		<div class="text-center">
+																				<a data-target="#exampleModalCenter" data-toggle="modal"
+																				class="button  button-icon " href="#">
+																				M’informer au lancement </a>
+																				 <!-- <a
 																				class="button  button-icon " href="#">
 																				<i aria-hidden="true"
 																					class="ion ion-social-apple"></i>App
@@ -1508,7 +1735,7 @@
 																				Play</a> 
 																				<a class="button  button-icon "
 																				href="#"> <i aria-hidden="true"
-																					class="ion ion-social-windows"></i>Application web</a> 
+																					class="ion ion-social-windows"></i>Application web</a>  -->
 																			</div>
 																	</div>
 																</div>
@@ -1651,8 +1878,10 @@
 																	<div class="wpb_wrapper">
 																		<div class="heading-title text-center">
 																			<h2 class="title">Nos articles récents</h2>
-																			<p>Chaque semaine, nous partageons avec vous trois articles autours de l'événementiel.
-																				Des trucs & astuces aux bons plan, rien n'est laissé de côté. 
+																			<p>Chaque semaine, nous partageons avec vous trois articles
+																				 autour de l'événementiel.
+																				 Des trucs & astuces aux bons plans, rien n'est laissé de côté. 
+																				 N’hésitez pas à vous abonner à la newsletter pour ne rien rater.  
 																			</p>
 																		</div>
 																	</div>
@@ -2158,10 +2387,11 @@
 																	<div class="wpb_wrapper">
 																		<div class="heading-title title-white text-center"
 																			style="color:#fff">
-																			<h2 class="title">Souscrire à notre News letter
+																			<h2 class="title">Souscrire à notre Newsletter
 																			</h2>
-																			<p>Ne manquez pas d'être informé sur nos nouvelles Fonctionnalités et de recevoir
-																				nos meilleurs articles autour de l'événementiel.
+																			<p>Ne manquez pas d'être informé sur nos nouvelles Fonctionnalités
+																				 et de recevoir nos meilleurs articles autour de l'événementiel. 
+																				 Soyez dans l’action ; agissez aujourd’hui.
 																			</p>
 																		</div>
 																	</div>
@@ -2302,7 +2532,81 @@
                                             </div>
                                             </div>
                                         </div>
-    
+   
+<!-- =========================================================================================================================== -->
+<div class="modal fade" id="exampleModalCenter1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenter1Title" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                            <div class="modal-content pt-0">
+                                                <!-- <div class="modal-header" style="border: none;">
+                                                   
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                </div> -->
+                                                <div class="modal-body text-center py-0 px-0" style="overflow : hidden">
+                                                    <div class="container-fluid p-0 m-0" style="position:relative" >
+                                                       <img src="<?php echo e(asset('wp-content/uploads/sites/9/2019/02/cible-app-modale-info.png')); ?>" class="container-fluid p-0 m-0" alt="" >
+                                                        <!-- <div style="position:absolute;top:0;left:0;background: linear-gradient(to bottom, rgba(252, 119, 50, 0.5) 0%, rgba(236, 68, 86, 0.5) 100%);" class="w-100 h-100" ></div>
+                                                        <img src="<?php echo e(asset("/wp-content/themes/appino/assets/images/logo.png")); ?>" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:5rem" alt="">
+                                                    </div> -->
+                                                <div class="p-3">
+                                                <h5 class="modal-title mt-4" id="exampleModalLongTitle" style="font-size: 1.5rem;">Soyez informé au lancement  !</h5>
+                                                <p class="mb-0 pb-0">
+                                                Votre adresse email ne sera pas publiée. 
+                                                </p>
+                                                <form
+                                                    action=""
+                                                    method="post" id="commentform" class="comment-form text-left" novalidate>
+                                                  
+                                                    <div class="row my-4">
+														<div class="col-12 mb-3">
+                                                            <input id="nom" placeholder="Nom & prénom(s)"
+                                                                name="email" type="email" value="" size="30" maxlength="100"
+                                                                aria-describedby="email-notes" required='required' />
+                                                        </div>
+														<div class="col-12 mb-3">
+                                                            <input id="email" placeholder="Email"
+                                                                name="email" type="email" value="" size="30" maxlength="100"
+                                                                aria-describedby="email-notes" required='required' />
+                                                        </div>
+                                                        <div class="col-12 mb-3 ">
+                                                            <select class="">
+                                                                    <option>Profession</option>
+                                                            </select>
+                                                        </div>
+														<div class="col-4 mb-3 pr-0 mr-0">
+                                                            <select class="">
+                                                                    <option>Pays</option>
+                                                            </select>
+                                                        </div>
+                                                        <div class="col-8 mb-3">
+                                                            <input id="number" placeholder="Numéro de téléphone"
+                                                                name="number" type="number" value="" size="30" maxlength="100"
+                                                                aria-describedby="number-notes" required='required' />
+                                                        </div>
+                                                      
+                                                        <div class="col-12 mt-4 d-flex justify-content-center">
+                                                        <input name="submit" type="submit"  data-dismiss="modal"
+                                                            id="submit" class="submit w-50 mx-auto" value="Envoyer" />
+                                                        </div>
+                                                    </div>
+                                                  
+                                                </form>
+                                                </div>
+                                                
+                                                </div>
+                                                <!-- <div class="modal-footer justify-content-center m-0 border-none" style="border: none;">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                                <button type="button" class="btn btn-primary">D'accord</button>
+                                                </div> -->
+                                            </div>
+                                            </div>
+                                        </div>
+   
+
+
+
+										
 </div><!-- .site-content-contain -->
 <style>
 		.tab-content::before{

@@ -127,7 +127,7 @@ div.wpcf7-response-output { display: none; }
 .no-padding { padding: 0px !important; }
 .no-margin, .no-margin .wpb_content_element { margin: 0px !important; }
 .home .content-area .site-main { padding: 0; }
-.home.blog .content-area .site-main { padding: 100px 0; }
+.home .blog .content-area .site-main { padding: 100px 0; }
 .footer_single .contact-info .site-info { margin-top: 0; }
 .footer_single .contact-info, .vc_row-has-fill>.vc_column_container>.vc_column-inner, .vc_row-has-fill+.vc_row-full-width+.vc_row>.vc_column_container>.vc_column-inner { padding-top: 0 !important; }
 .vc_parallax { overflow: hidden !important; }

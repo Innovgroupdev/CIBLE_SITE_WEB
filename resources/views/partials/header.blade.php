@@ -22,22 +22,22 @@
                                 <ul id="top-menu" class="menu">
                                     <li id="menu-item-658"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-658">
-                                        <a href="#home">Accueil</a></li>
+                                        <a href="{{url('/')}}#home">Accueil</a></li>
                                     <li id="menu-item-552"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-552">
-                                        <a href="#about">A propos</a></li>
+                                        <a href="{{url('/')}}#about">A propos</a></li>
                                     <li id="menu-item-553"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-553">
-                                        <a href="#features">Fonctionnalités</a></li>
+                                        <a href="{{url('/')}}#features">Fonctionnalités</a></li>
                                     <li id="menu-item-554"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-554">
-                                        <a href="#team"> L’équipe </a></li>
+                                        <a href="{{url('/')}}#team"> L’équipe </a></li>
                                     <!-- <li id="menu-item-555"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-555">
                                         <a href="#screenshots">FAQ </a></li> -->
                                     <li id="menu-item-1041"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1041">
-                                        <a href="#faq">FAQ</a></li>
+                                        <a href="{{url('/')}}#faq">FAQ</a></li>
                                     <!-- <li id="menu-item-556"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-556">
                                         <a href="#pricing">Pricing</a></li> -->
@@ -46,7 +46,7 @@
                                         <a href="shop-2/index.html">Shop</a></li> -->
                                     <li id="menu-item-557"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-557">
-                                        <a href="#blog">Blog</a>
+                                        <a href="{{route('blog')}}">Blog</a>
                                         <!-- <ul class="sub-menu">
                                             <li id="menu-item-571"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-571">

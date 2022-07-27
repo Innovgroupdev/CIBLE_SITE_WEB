@@ -20,8 +20,9 @@
                         <i aria-hidden="true" class="ion-ios-location-outline"></i>
                     </div>
                     <div class="fancy-content">
-                        <h5>Address</h5>
-                        <span>1234 North Avenue Luke Lane, South Bend, IN 360001</span>
+                        <h5>Siège social</h5>
+                        <span>
+                        Immeuble FADEL, Agbalépédogan, Lomé-TOG</span>
                     </div>
                 </div>
             </div>
@@ -31,9 +32,9 @@
                         <i aria-hidden="true" class="ion-ios-telephone-outline"></i>
                     </div>
                     <div class="fancy-content">
-                        <h5>Phone</h5>
-                        <span class="lead"><a href="tel:+0123456789">+0123456789</a></span>
-                        <p>Mon-Fri 8:00am - 8:00pm</p>
+                        <h5>Contactez-nous</h5>
+                        <span class="lead"><a href="tel:+22899328853">+228 99 32 88 53</a></span>
+                        <p>Lundi – Vendredi : 09h 00 – 18h 00</p>
                     </div>
                 </div>
             </div>
@@ -44,8 +45,8 @@
                     </div>
                     <div class="fancy-content">
                         <h5>Email</h5>
-                        <span><a href="mailto:support@appino.com">support@appino.com</a></span>
-                        <p>24 X 7 online support</p>
+                        <span><a href="mailto:Support@cible-app.com">Support@cible-app.com </a></span>
+                        <p>Réponse dans 1h maximum</p>
                     </div>
                 </div>
             </div>
@@ -71,7 +72,7 @@
                 </div>
                 <div class="col-lg-6 align-self-center">
                     <div class="footer-copyright">
-                        Copyright 2021 <a href="https://wordpress.iqonic.design/appino/">appino</a> All
+                        Copyright 2021 <a href="https://www.innov-is-afrique.com/">INNOV IS</a> All
                         Rights Reserved. </div>
                 </div>
             </div>
